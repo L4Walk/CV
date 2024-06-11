@@ -20,23 +20,23 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
+  name: "卢江洋",
+  initials: "溪河",
   location: "Wrocław, Poland, CET",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
   summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies worldwide.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "https://avatars.githubusercontent.com/u/67847083?v=4",
+  personalWebsiteUrl: "https://www.ljy-lu.space/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "L4Walk@chuheng.tech",
+    tel: "+8617858601564",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/L4Walk",
         icon: GitHubIcon,
       },
       {
@@ -46,17 +46,29 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/L4Walk",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "中国计量大学",
+      degree: "数据科学与大数据技术，本科",
+      start: "2021.09",
+      end: "至今",
+    },
+    {
+      school: "中国计量大学",
+      degree: "首届创新创业管理微专业",
+      start: "2022.09",
+      end: "2024.01",
+    },
+    {
+      school: "浙江大学",
+      degree: "求是强鹰实践成长计划二十一期",
+      start: "2023.12",
+      end: "至今",
     },
   ],
   work: [
