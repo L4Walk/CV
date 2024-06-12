@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/%E6%B1%9F%E6%B4%8B-%E5%8D%A2-a68966293/",
         icon: LinkedInIcon,
       },
       {
@@ -73,26 +73,26 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Film.io",
-      link: "https://film.io",
-      badges: ["Remote"],
-      title: "Software Architect",
+      company: "整数智能信息技术（杭州）有限责任公司",
+      link: "https://molardata.com",
+      badges: ["实习"],
+      title: "产品经理",
       logo: ConsultlyLogo,
-      start: "2024",
+      start: "2024.02",
       end: null,
       description:
-        "Leading the development of the Film.io platform. Technologies: React, TypeScript, Node.js",
+        "负责MooreData数据工程平台个人版产品设计和市场推广；竞品调研；AIGC行业研究",
     },
     {
-      company: "Parabol",
+      company: "上海蓝衫科技有限公司",
       link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      badges: ["远程"],
+      title: "技术主管",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2023.09",
+      end: "2023.12",
       description:
-        "Implemented new features, led a squad, improved code delivery process, and initiated migration from Emotion to Tailwind CSS. Technologies: React, TypeScript, GraphQL",
+        "负责蓝衫科技C端产品研发，蓝衫科技导航站站长，负责站内AI搜索研发；蓝衫AI Tool、APP封装、蓝衫云支付等产品线研发搭建",
     },
     {
       company: "Clevertech",
