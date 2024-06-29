@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies worldwide.",
+    "我是一个爱折腾、有着技术抱负的创业青年，喜欢探索新鲜技术，并热衷于将技术的乐趣分享给更多人。我坚信技术是改变世界的重要驱动力，我相信，知识的价值在于分享。我不仅在技术领域追求卓越，还热衷于将我的所学所得传递给他人。我通过博客、公众号和自媒体平台，分享好玩的 AI 技术产品应用，让更多人感受到科技的魅力。",
   avatarUrl: "https://avatars.githubusercontent.com/u/67847083?v=4",
   personalWebsiteUrl: "https://www.ljy-lu.space/",
   contact: {
@@ -124,14 +124,8 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
+      title: "基于机器视觉的自动化检测系统",
+      techStack: ["C++", "QT", "OpenCV", "Node.js", "GraphQL"],
       description:
         "The Agile meeting co-pilot that delivers better meetings with less effort",
       logo: ParabolLogo,
@@ -141,14 +135,8 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
+      title: "基于 ArcGIS Enigine 的地理信息系统检测软件",
+      techStack: ["C#", "ArcGIS Engine"],
       description:
         "Creative collaboration platform that combines video conferencing and HD media streaming",
       logo: EvercastLogo,
@@ -158,15 +146,8 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Consultly",
-      techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-      ],
+      title: "基于 LLM 的智能问答助理",
+      techStack: ["Nuxt.js", "TypeScript", "Vite", "RAG"],
       description: "A platform to build and grow your online business",
       logo: ConsultlyLogo,
       link: {
@@ -175,8 +156,8 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "中国计量大学创赛服务平台",
+      techStack: ["Nuxt.js", "TypeScript", "Vite"],
       description:
         "Browser extension that records everything happening in a web application",
       logo: MonitoLogo,
@@ -186,8 +167,8 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      title: "基于 LDM 和 CPM-Bee 模型的 AIGC 绘图软件研发",
+      techStack: ["Nuxt.js", "TypeScript", "Vite", "LLMOps"],
       description:
         "Personal website and blog. Built with Next.js and Notion API",
       logo: JarockiMeLogo,
